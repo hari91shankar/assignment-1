@@ -1,0 +1,76 @@
+
+.display-4 {
+    font-size: 50px;
+} 
+
+h1 {
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: rgb(13, 153, 99);
+}
+
+p {
+    font-family: 'Merriweather', serif;
+    color: rgba(19, 107, 223, 0.808);
+    size: 50px;
+}
+
+.jumbotron{
+    background-image: url(streets.jpg);
+    background-attachment: scroll;
+    background-size: cover
+}
+.jumbotron {
+    min-height: 350px;
+}
+
+.big-icon {
+    font-size: 32px;
+}
+.col-sm {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 30px;
+}
+.navbar {
+    min-height: 4rem;
+    background-color: #563d7c;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
+}
+body {
+    background-image: url(whitebrick.jpeg);
+}
+footer{
+    background-color: rgb(175, 172, 125);
+}
+
+tr{
+    font-size: 15px;
+}
+
+th{
+    color: maroon;
+}
+
+#offerings {
+    color: rgb(19, 144, 175);
+}
+
+.fa-instagram {
+    color: rgba(158, 36, 15, 0.719);
+    size: 0vmax;
+}
+
+.fa-twitter {
+    color: rgba(158, 36, 15, 0.719);
+}
+
+.fa-facebook-f {
+    color: rgba(158, 36, 15, 0.719);
+}
+
+.values {
+    color: rgb(75, 17, 17); 
+    font-size: 30px;
+}
